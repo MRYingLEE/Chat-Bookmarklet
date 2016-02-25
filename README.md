@@ -19,4 +19,4 @@ javascript:(function (window, document, undefined) { converse.rooms.open("sales@
 
 1. You may try another popular XMPP web chat Jappix Mini (https://github.com/jappix/jappix).
 2. In the bookmarklet, you may add some logic to decide which contact/MUC should be chat with and what of topic should be pre-defined. So although this is a simple demo, you may extend it according to your seneario.
-3. You may go further, you may inject a web chat to ANY web page according to the context. For example, when you select a colleague name, click the bookmarklet will launch a web chat with your colleague immediately.
+3. You may go further, you may inject a web chat to ANY web page according to the context. For example, when you select a colleague name, click the bookmarklet will launch a web chat with your colleague immediately. A good example is sillero/togetherjs-bookmarklet(https://github.com/sillero/togetherjs-bookmarklet).
