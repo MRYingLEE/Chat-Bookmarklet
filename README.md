@@ -1,0 +1,2 @@
+# Chat-Bookmarklet
+This is a bookmarklet to initiate a web chat of jcbrand/converse.js (https://github.com/jcbrand/converse.js). Usually people start chat by choosing a contact or MUC (group chat) in the chat app at first. This bookmarklet starts at book mark bar. In the bookmarklet, you may add some logic to decide which contact/MUC should be chat with and what of topic should be pre-defined. So although this is a simple demo, you may extend it according to your seneario. Btw, this is a side product of my RoleChat project (https://RoleChat.biz or https://Hotline.Chat).
