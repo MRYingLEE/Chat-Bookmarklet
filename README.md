@@ -1,5 +1,5 @@
 # Chat-Bookmarklet
-This is an experimental bookmarklet to initiate a web chat of jcbrand/converse.js (https://github.com/jcbrand/converse.js) at book mark bar. In the bookmarklet, you may add some logic to decide which contact/MUC should be chat with and what topic should be pre-defined. Btw, this is a side product of my Hotline.Chat project.
+This is an experimental bookmarklet to initiate a web chat of jcbrand/converse.js (https://github.com/jcbrand/converse.js) at book mark bar. In the bookmarklet, you may add some logic to decide which contact/MUC should be chatted with and what topic should be pre-defined. Btw, this is a side product of my Hotline.Chat project.
 
 ## Bookmarklet
 Just add the bookmarklet below to your bookmarks bar.
